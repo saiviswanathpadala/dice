@@ -1,0 +1,15 @@
+{
+  "name": "dice",
+  "version": "1.0.0",
+  "description": "This the dice project but hosted on localhost via node an express",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Padala Sai Viswanath",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
